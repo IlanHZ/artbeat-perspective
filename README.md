@@ -1,19 +1,19 @@
-Travelogue
+ArtBeat
 ==========
-[![Live Demo](http://img.shields.io/badge/Travelogue-DEMO-7D8866.svg?style=flat)](https://salgnt.github.io/Travelogue)&nbsp;
+[![Live Demo](http://img.shields.io/badge/ArtBeat-DEMO-7D8866.svg?style=flat)](https://salgnt.github.io/ArtBeat)&nbsp;
 [![The MIT License](http://img.shields.io/badge/License-MIT-green.svg?style=flat)](#license)&nbsp;
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SalGnt/Travelogue?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SalGnt/ArtBeat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-Travelogue is a minimal, single-column [Jekyll](http://jekyllrb.com/) theme that provides an immersive read experience for your readers.
+ArtBeat is a minimal, single-column [Jekyll](http://jekyllrb.com/) theme that provides an immersive read experience for your readers.
 
-![Post](https://dl.dropboxusercontent.com/u/18322837/GitHub/Travelogue/Post.png)
+![Post](https://dl.dropboxusercontent.com/u/18322837/GitHub/ArtBeat/Post.png)
 
 
 ## Getting Started
 The theme provides a complete Jekyll setup. Download it and start the Jekyll server.
 
-    git clone https://github.com/SalGnt/Travelogue.git
-    cd Travelogue
+    git clone https://github.com/SalGnt/ArtBeat.git
+    cd ArtBeat
     jekyll serve
 
 Visit the [Jekyll website](http://jekyllrb.com/) for more information.
@@ -29,7 +29,7 @@ Visit the [Jekyll website](http://jekyllrb.com/) for more information.
 #### Sidebar
 A link of each page will be added to the menu integrated in the sidebar.
 
-![Post Header](https://dl.dropboxusercontent.com/u/18322837/GitHub/Travelogue/Sidebar.png)
+![Post Header](https://dl.dropboxusercontent.com/u/18322837/GitHub/ArtBeat/Sidebar.png)
 
 #### Post Thumbnail
 The thumbnail can be added by specifying a path to an image in the front matter.
@@ -57,7 +57,7 @@ You can also specify the author's name for each post by adding the following var
 
     author: John Doe
 
-![Post Footer](https://dl.dropboxusercontent.com/u/18322837/GitHub/Travelogue/Footer.png)
+![Post Footer](https://dl.dropboxusercontent.com/u/18322837/GitHub/ArtBeat/Footer.png)
 
 #### Share Buttons
 The template make use of [RRSSB](https://github.com/kni-labs/rrssb). You can enable it in the `_config.yml` file.
